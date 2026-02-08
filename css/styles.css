@@ -13,6 +13,7 @@ a:focus, a:hover {
 button:focus, button:hover {
     background-color: #404BBF;
 }
+a{text-decoration: none}
 /*#endregion*/
 
 /*#region Font Styles*/
@@ -29,7 +30,7 @@ li {
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
-    color: #2E2F42;
+    color: #434455;
 }
 h1 {
     font-size: 56px;
@@ -61,13 +62,16 @@ h3{
     font-size: 16px;
     line-height: 1.5;
     font-weight: 400;
-    color: #2E2F42;
+    color: #434455;
+    font-style: normal
 }
 .logo-studio {
     font-size: 18px;
     line-height: 1.17;
     font-weight: 700;
     color: #2E2F42;
+    text-transform: uppercase;
+    font-family: Raleway, sans-serif;
 }
 .button {
     font-size: 16px;
@@ -79,9 +83,21 @@ color: #FFFFFF;
 }
 .our-team-chentr{
     text-align: center;
+    line-height: 1.5;
 }
 .our-team-fonts{
     background-color: #FFFFFF;
+}
+.our-features{
+    color: #434455;
+    line-height: 1.5;
+}
+.our-team-item{
+    line-height: 1.1;
+}
+.portfolio-p{
+    color: #2E2F42;
+    line-height: 1.5;
 }
 .footer-fonts {
     font-size: 16px;
@@ -103,8 +119,12 @@ color: #FFFFFF;
 
 .web-blue {color: #4D5AE5;
 cursor: pointer;
+line-height: 1.17 ;
+text-transform: uppercase;
+font-family: Raleway, sans-serif;
 }
 .studio-light{
     color: #F4F4FD;
+    font-family: Raleway, sans-serif;
 }
 /*#endiregion*/
