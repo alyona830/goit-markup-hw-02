@@ -24,13 +24,20 @@ a{text-decoration: none}
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
-
+.nav-list-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
 .contacts-inform {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
+    font-style: normal;
 }
 
 .h1-item {
@@ -63,7 +70,7 @@ a{text-decoration: none}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
 }
 
 .h2-team-item {
@@ -94,7 +101,7 @@ a{text-decoration: none}
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2E2F42;
+    color: #434455;
 }
 
 .h2-portfolio {
@@ -119,7 +126,7 @@ a{text-decoration: none}
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: #434455;
 }
 
 .footer-p {
